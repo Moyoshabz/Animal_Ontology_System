@@ -22,5 +22,4 @@ This project demonstrates how **ontological engineering** and **reasoning system
 ## Why This Matters
 This project showcases how structured semantic knowledge can support AI in making intelligent, explainable decisions — a critical capability in domains like healthcare, education, and NLP.
 
-## File Structure
 
