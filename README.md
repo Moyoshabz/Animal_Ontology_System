@@ -1,4 +1,5 @@
 # Animal Ontology Reasoning System
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://moyofadiya.streamlit.app/animal-ontology)
 
 This project demonstrates how **ontological engineering** and **reasoning systems** can be applied in AI using Python, Streamlit, and the Owlready2 library.
 
