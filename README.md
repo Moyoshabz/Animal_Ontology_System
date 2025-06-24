@@ -16,7 +16,7 @@ This project demonstrates how **ontological engineering** and **reasoning system
 - **Inheritance & Exception Handling**
 - **AI Knowledge Representation**
 
-## Tech Stack Used for the Project
+## Tech Stack Used for this Project
 - Python 3
 - Owlready2
 - Streamlit online app
