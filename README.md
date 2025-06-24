@@ -10,17 +10,17 @@ This project demonstrates how **ontological engineering** and **reasoning system
 - Implements **default logic** (e.g., "birds can fly", with exceptions like penguins)
 - Provides an **interactive web app** to explore and reason about the ontology
 
-## Key Concepts
+## The Key Concepts
 - **Ontological Engineering**
 - **Semantic Reasoning**
 - **Inheritance & Exception Handling**
 - **AI Knowledge Representation**
 
-## Tech Stack
+## Tech Stack Used for the Project
 - Python 3
 - Owlready2
-- Streamlit
-- Google Colab (or local Python environment)
+- Streamlit online app
+- Google Colab 
 
 ## Why This Matters
-This project showcases how structured semantic knowledge can support AI in making intelligent, explainable decisions — a critical capability in domains like **healthcare**, **education**, **NLP**, and **smart assistants**.
+This project showcases how structured semantic knowledge can support AI in making intelligent, explainable decisions, its application is critical in domains like **healthcare**, **education**, **Natural Language Processing**, and **smart online assistants**.
