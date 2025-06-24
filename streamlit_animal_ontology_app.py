@@ -7,13 +7,10 @@ Original file is located at
     https://colab.research.google.com/drive/1Sdez6-_AaOUMq-lIL7PaPVDcDRFvrcoG
 """
 
-#Library
-!pip install owlready2
+
 
 from owlready2 import *
 
-#Installing a visual tool
-!pip install streamlit
 import streamlit as st
 
 st.title("Animal Ontology Reasoning App")
