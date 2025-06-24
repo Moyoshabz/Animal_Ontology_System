@@ -1,12 +1,12 @@
 # Animal Ontology Reasoning System
 
-This project demonstrates how **ontological engineering** and **reasoning systems** can be applied in AI using Python and the Owlready2 library.
+This project demonstrates how **ontological engineering** and **reasoning systems** can be applied in AI using Python, Streamlit, and the Owlready2 library.
 
 ## What It Does
-- Defines a basic **ontology of animals** (Animal → Bird → Penguin, etc.)
-- Encodes **category-based reasoning**
-- Shows **default logic** in action (e.g., birds usually fly, penguins don’t)
-- Uses **Owlready2** to load, extend, and query the ontology
+- Builds a basic **ontology of animals** (Animal → Bird → Penguin, etc.)
+- Models **category-based inference** (e.g., "Penguin is a Bird and thus an Animal")
+- Implements **default logic** (e.g., "birds can fly", with exceptions like penguins)
+- Provides an **interactive web app** to explore and reason about the ontology
 
 ## Key Concepts
 - **Ontological Engineering**
@@ -14,12 +14,11 @@ This project demonstrates how **ontological engineering** and **reasoning system
 - **Inheritance & Exception Handling**
 - **AI Knowledge Representation**
 
-## Tech Stack Used
+## Tech Stack
 - Python 3
 - Owlready2
-- Google Colab (for interactive demos)
+- Streamlit
+- Google Colab (or local Python environment)
 
 ## Why This Matters
-This project showcases how structured semantic knowledge can support AI in making intelligent, explainable decisions — a critical capability in domains like healthcare, education, and NLP.
-
-
+This project showcases how structured semantic knowledge can support AI in making intelligent, explainable decisions — a critical capability in domains like **healthcare**, **education**, **NLP**, and **smart assistants**.
