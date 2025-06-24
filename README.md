@@ -1,8 +1,6 @@
 # Animal Ontology Reasoning System
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://animalontologysystem-rbyc9n4q8pwtkc4nvxwunw.streamlit.app/)
-
 ## Live Demo
-**Try the app here:** [https://animalontologysystem-rbyc9n4q8pwtkc4nvxwunw.streamlit.app/](https://animalontologysystem-rbyc9n4q8pwtkc4nvxwunw.streamlit.app/)
+**Try the app here:** [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://animalontologysystem-rbyc9n4q8pwtkc4nvxwunw.streamlit.app/)
 
 This project demonstrates how **ontological engineering** and **reasoning systems** can be applied in AI using Python, Streamlit, and the Owlready2 library.
 
